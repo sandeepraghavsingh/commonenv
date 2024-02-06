@@ -1,0 +1,5 @@
+{
+  "production": true,
+  "rootUrl": "https://api.kreditlo.com/",
+  "baseUrl": "https://api.kreditlo.com/kreditLo/api"
+} 
